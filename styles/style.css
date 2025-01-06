@@ -293,11 +293,6 @@ ol {
   background-color: #545050;
 }
 
-.search-form__submit-button {
-  min-width: 194px;
-  align-self: flex-end;
-}
-
 .more-button {
   width: 100%;
 }
